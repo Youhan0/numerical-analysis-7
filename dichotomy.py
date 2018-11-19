@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 10 17:27:50 2018
 
-@author: 闫汝海
+@author: Youhan0
 """
 
 import sympy as sp
